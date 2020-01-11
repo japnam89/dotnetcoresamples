@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\JAPNAMFX-OMEN\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\JAPNAMFX-OMEN\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

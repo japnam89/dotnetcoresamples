@@ -1,0 +1,11 @@
+C:\Users\JAPNAMFX-OMEN\source\repos\SwitchExample-JS\bin\Debug\netcoreapp3.1\SwitchExample-JS.exe
+C:\Users\JAPNAMFX-OMEN\source\repos\SwitchExample-JS\bin\Debug\netcoreapp3.1\SwitchExample-JS.deps.json
+C:\Users\JAPNAMFX-OMEN\source\repos\SwitchExample-JS\bin\Debug\netcoreapp3.1\SwitchExample-JS.runtimeconfig.json
+C:\Users\JAPNAMFX-OMEN\source\repos\SwitchExample-JS\bin\Debug\netcoreapp3.1\SwitchExample-JS.runtimeconfig.dev.json
+C:\Users\JAPNAMFX-OMEN\source\repos\SwitchExample-JS\bin\Debug\netcoreapp3.1\SwitchExample-JS.dll
+C:\Users\JAPNAMFX-OMEN\source\repos\SwitchExample-JS\bin\Debug\netcoreapp3.1\SwitchExample-JS.pdb
+C:\Users\JAPNAMFX-OMEN\source\repos\SwitchExample-JS\obj\Debug\netcoreapp3.1\SwitchExample-JS.csprojAssemblyReference.cache
+C:\Users\JAPNAMFX-OMEN\source\repos\SwitchExample-JS\obj\Debug\netcoreapp3.1\SwitchExample-JS.AssemblyInfoInputs.cache
+C:\Users\JAPNAMFX-OMEN\source\repos\SwitchExample-JS\obj\Debug\netcoreapp3.1\SwitchExample-JS.AssemblyInfo.cs
+C:\Users\JAPNAMFX-OMEN\source\repos\SwitchExample-JS\obj\Debug\netcoreapp3.1\SwitchExample-JS.dll
+C:\Users\JAPNAMFX-OMEN\source\repos\SwitchExample-JS\obj\Debug\netcoreapp3.1\SwitchExample-JS.pdb
