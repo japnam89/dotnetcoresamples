@@ -1,0 +1,25 @@
+﻿[
+
+  {
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": 25
+
+  },
+  {
+    "firstName": "James",
+    "lastName": "Butterburg",
+    "age": 27
+    },
+  {
+    "firstName": "Josephine",
+    "lastName": "Darakjy",
+    "age": 28
+  },
+  {
+    "firstName": "Art",
+    "lastName": "Chemel",
+    "age": 30
+  }
+
+]
